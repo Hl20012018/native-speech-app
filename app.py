@@ -2,6 +2,8 @@ from dotenv import load_dotenv
 import os
 from flask import Flask, render_template, request
 from groq import Groq
+from groq import Groq
+load_dotenv()
 
 app = Flask(__name__)
 
