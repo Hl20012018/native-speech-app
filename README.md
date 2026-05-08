@@ -37,7 +37,7 @@ I'M opening the DOOR, okay?
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/Hl20012018/native-speech-app.git
 ```
 
 Install dependencies:
